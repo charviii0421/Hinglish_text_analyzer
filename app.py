@@ -66,4 +66,4 @@ if st.button("🔍 Analyze Text", type="primary", use_container_width=True):
         st.info(result["summary"])
 
 st.markdown("---")
-st.caption("Educational NLP project — hybrid lexicon + rule-based Hinglish analysis.")
+
